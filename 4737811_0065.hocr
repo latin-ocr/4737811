@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737811_0065.png"; bbox 0 0 1678 2671; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 734 1083 981 1136">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 734 1083 981 1136">
+     <span class='ocr_line' id='line_1_1' title="bbox 734 1083 981 1136; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 734 1083 981 1136; x_wconf 75' lang='lat' dir='ltr'>Corrigenda.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 168 1380 1359 1471">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 168 1374 1359 1470">
+     <span class='ocr_line' id='line_1_2' title="bbox 169 1380 1359 1434; baseline -0.001 -16"><span class='ocrx_word' id='word_1_2' title='bbox 169 1380 387 1428; x_wconf 53' lang='lat' dir='ltr'><strong>paene</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 417 1386 572 1418; x_wconf 68' lang='lat' dir='ltr'><strong>notarum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 602 1394 682 1424; x_wconf 61' lang='lat' dir='ltr'><strong>unm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 683 1384 732 1417; x_wconf 80' lang='lat' dir='ltr'><strong>eri</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 757 1385 959 1434; x_wconf 76' lang='lat' dir='ltr'><strong>typographi</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 989 1394 1100 1418; x_wconf 80' lang='lat' dir='ltr'>errore</span> <span class='ocrx_word' id='word_1_8' title='bbox 1127 1384 1256 1418; x_wconf 72' lang='lat' dir='ltr'><strong>oonfuei</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1272 1386 1359 1423; x_wconf 65' lang='lat' dir='ltr'><strong>aaut</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 168 1420 1329 1471; baseline 0.002 -12"><span class='ocrx_word' id='word_1_10' title='bbox 168 1462 173 1467; x_wconf 69' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 254 1431 387 1471; x_wconf 62' lang='lat' dir='ltr'>quoquo</span> <span class='ocrx_word' id='word_1_12' title='bbox 404 1426 494 1459; x_wconf 59' lang='lat' dir='ltr'><strong>inm</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 512 1427 701 1469; x_wconf 74' lang='lat' dir='ltr'><strong>legendum</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 708 1420 806 1460; x_wconf 62' lang='lat' dir='ltr'><strong>mile</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 825 1427 948 1470; x_wconf 72' lang='lat' dir='ltr'><strong>oon-igi</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 967 1428 1116 1468; x_wconf 73' lang='lat' dir='ltr'><strong>possunt.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1327 1461 1329 1464; x_wconf 80' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1668 2671">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1668 2671">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1668 2671; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1668 2671; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
